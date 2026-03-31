@@ -23,10 +23,6 @@ gcc -o date_day date_day.c
 This would output the result
 > Mon
 
-Command,Result
-./date_day Nov 19 2018,Mon
-./date_day Mar 31 2010,Wed
-
 To use, simply enter the date as explicitly illustrated.
 
 
