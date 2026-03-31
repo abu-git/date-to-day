@@ -21,9 +21,7 @@ gcc -o date_day date_day.c
 ```
 
 This would output the result
-```bash
-Mon
-```
+> Mon
 
 To use, simply enter the date as explicitly illustrated.
 
